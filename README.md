@@ -4,3 +4,5 @@ GuildX Is A Website That I Thought Of Making Since I Have Had Some Things On My 
 
 I Will Post Weekly Changelogs!
 # ChangeLogs
+**Published Website Via Github Host**
+**Advanced Storage System For ID'S 🆔️**
